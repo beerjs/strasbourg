@@ -19,7 +19,7 @@ Rejoignez-nous sur Slack : [ici](http://elsass-dev.fr)
 Nous aider ?
 -------------
 
-Créer une [*issue*](issues/new) ou une [*pull request*](compare)
+Créer une [*issue*](issues/new).
 
 
 Groupe(s)
