@@ -19,7 +19,7 @@ Rejoignez-nous sur Slack : [ici](http://elsass-dev.fr)
 Nous aider ?
 -------------
 
-Créer une [*issue*](issues/new).
+Créer une [*issue*](https://github.com/beerjs/strasbourg/issues/new).
 
 
 Groupe(s)
