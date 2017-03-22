@@ -3,7 +3,7 @@ BeerJS @ Strasbourg
 
 > Les humains écrivent du code que seules les machines interprètent. Mais nous voulons revenir aux origines pour nous socialiser pendant quelques heures. Laissez les bureaux, maisons ou grottes pour partager les problèmes rencontrés sur vos projets.
 
-***Tous les niveaux sont les bienvenues.***
+***Tous les niveaux sont les bienvenus.***
 
 ***Il n'y a pas d'obligation de boire pour participer.***
 
