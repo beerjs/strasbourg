@@ -14,7 +14,7 @@ Nous rejoindre ?
 
 *Watch*ez (<img src="http://beerjs.github.io/sf/assets/watch.png" height="18">) le repo pour être notifié des futurs événements.
 
-Rejoignez-nous sur Slack : [ici](http://elsass-dev.fr), vous pouvez demander une invitation à @xtuc.
+Rejoignez-nous sur Slack : [ici](http://elsass-dev.fr), vous pouvez demander une invitation à [@xtuc](https://github.com/xtuc).
 
 Nous aider ?
 -------------
