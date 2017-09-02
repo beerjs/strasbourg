@@ -27,3 +27,12 @@ Groupe(s)
 
 * [Strasbourg Node.js](http://www.meetup.com/fr-FR/Strasbourg-Nodejs)
 * [StrasbourgJS](http://www.meetup.com/fr-FR/StrasbourgJS)
+
+Organisateur(s)
+-------------
+
+| Sven Sauleau |
+|---|
+| [![Sven Sauleau](https://avatars3.githubusercontent.com/u/1493671?s=64)](https://github.com/xtuc) |
+| [@svensauleau](https://twitter.com/svensauleau) |
+| Mainteneur [@babel](https://github.com/babel) |
